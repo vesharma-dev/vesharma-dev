@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun (Ve) Sharma</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Varun (Ve) Sharma</h1>
 <h3 align="center">Co-founder & CTO of Ad Auris</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=print-varunsharma" alt="print-varunsharma" /></a> </p>
