@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=print-varunsharma&count_private=true&theme=blue-green" alt="print-varunsharma" /></p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/print-VarunSharma/print-VarunSharma/blob/master/devcard.svg" width="400" alt="Ve's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/print-VarunSharma/print-VarunSharma/blob/main/devcard.svg" width="400" alt="Ve's Dev Card"/></a>
