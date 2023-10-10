@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scalability for Startups**
 
-- 💬 Ask me about **nodeJS, react, flask, devOps, architecture, startups & entrepreneurship.**
+- 💬 Ask me about **JS/TS, Next.JS, architecture, Gen-AI, Product Engineering, startups & entrepreneurship.**
 
 - 📫 How to reach me **varun.sharma@ad-auris.com**
 
