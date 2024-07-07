@@ -28,9 +28,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ve-varun-sharma" alt="ve-varun-sharma" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=print-varunsharma&show_icons=true&locale=en&layout=compact&count_private=true&theme=blue-green&include_all_commits=true" alt="print-varunsharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ve-varun-sharma&show_icons=true&locale=en&layout=compact&count_private=true&theme=blue-green&include_all_commits=true" alt="ve-varun-sharma" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=print-varunsharma&count_private=true&theme=blue-green" alt="print-varunsharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ve-varun-sharma&count_private=true&theme=blue-green" alt="ve-varun-sharma" /></p>
 
 <a href="https://app.daily.dev/ve-varun-sharma"><img src="https://github.com/print-VarunSharma/print-VarunSharma/blob/main/devcard.svg" width="400" alt="Ve's Dev Card"/></a>
