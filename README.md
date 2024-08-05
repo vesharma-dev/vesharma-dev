@@ -1,13 +1,13 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Varun (Ve) Sharma</h1>
 <h3 align="center">Co-founder & CTO of Ad Auris</h3>
 
-- 🔭 I’m currently working on [Ad Auris (Audio for Web)](https://ad-auris.com)
+- 🔭 I’m currently working on [Adauris (Audio for Web)](https://www.adauris.ai)
 
 - 🌱 I’m currently learning **Scalability for Startups**
 
 - 💬 Ask me about **JS/TS, Next.JS, architecture, Gen-AI, Product Engineering, startups & entrepreneurship.**
 
-- 📫 How to reach me **varun.sharma@ad-auris.com**
+- 📫 How to reach me **ve@vesharma.dev**
 
 - ⚡ Fun fact: **The first data structure to be implemented on a computer was the linked list, which was implemented by Allen Newell and Herbert Simon in 1956**
 
