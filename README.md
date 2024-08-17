@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/varundevasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varundevasharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varun-d-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-d-sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/ve_.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ve_.exe" height="30" width="40" /></a>
+<a href="https://instagram.com/vesharma.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ve_.exe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">👨🏽‍💻 Google For Developers + CloudSkills Profile:</h3>
