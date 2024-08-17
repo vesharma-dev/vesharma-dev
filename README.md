@@ -31,6 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ve-varun-sharma&show_icons=true&locale=en&layout=compact&count_private=true&theme=blue-green&include_all_commits=true" alt="ve-varun-sharma" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ve-varun-sharma&count_private=true&theme=blue-green" alt="ve-varun-sharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ve_sharma&count_private=true&theme=blue-green" alt="ve-varun-sharma" /></p>
 
-<a href="https://app.daily.dev/ve-varun-sharma"><img src="https://github.com/print-VarunSharma/print-VarunSharma/blob/main/devcard.svg" width="400" alt="Ve's Dev Card"/></a>
+<a href="https://app.daily.dev/ve_sharma"><img src="https://github.com/ve-varun-sharma/ve-varun-sharma/blob/main/devcard.svg" width="400" alt="Ve's Dev Card"/></a>
