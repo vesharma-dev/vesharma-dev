@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Varun (Ve) Sharma</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Ve (Varun) Sharma</h1>
 <h3 align="center">Co-founder & CTO of Ad Auris</h3>
 
 - 🔭 I’m currently working on [Adauris (Audio for Web)](https://www.adauris.ai)
