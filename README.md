@@ -1,15 +1,15 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Ve (Varun) Sharma</h1>
-<h3 align="center">Co-founder & CTO of Ad Auris</h3>
+<h3 align="center">Co-founder & Prev. CTO of Adauris, now Head of Engineering at YGG</h3>
 
-- 🔭 I’m currently working on [Adauris (Audio for Web)](https://www.adauris.ai)
+- 🔭 I’m currently working on [YGG (One of the largest Web3 Crypto DAO's)]([https://www.adauris.ai](https://yieldguild.slack.com/archives/C05RN9EGFNY/p1735050498949049?thread_ts=1735034302.480539&cid=C05RN9EGFNY))
 
-- 🌱 I’m currently learning **Scalability for Startups**
+- 🌱 I’m currently learning **AI in Web3**
 
-- 💬 Ask me about **JS/TS, Next.JS, architecture, Gen-AI, Product Engineering, startups & entrepreneurship.**
+- 💬 Ask me about **Full Stack Development, applied AI, Cloud/GCP, startups & technical entrepreneurship.**
 
 - 📫 How to reach me **ve@vesharma.dev**
 
-- ⚡ Fun fact: **The first data structure to be implemented on a computer was the linked list, which was implemented by Allen Newell and Herbert Simon in 1956**
+- ⚡ Fun fact:  Me => 🇨🇦 🇵🇭 🇮🇳 🇨🇳 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
