@@ -1,13 +1,13 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Ve (Varun) Sharma </h1>
-<h2>Co-founder & Prev. CTO of Adauris, now Head of Engineering at YGG <img src="https://media.giphy.com/media/J4Ir1dZyftXvleRBK8/giphy.gif?cid=ecf05e47y3l4y36z3woyfhsuizxjbya8akyi4e6fm03qnats&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"/> </h2>
+<h2>Co-founder & Prev. CTO of Adauris (acq by Landbase), now Head of Engineering at YGG <img src="https://media.giphy.com/media/J4Ir1dZyftXvleRBK8/giphy.gif?cid=ecf05e47y3l4y36z3woyfhsuizxjbya8akyi4e6fm03qnats&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"/> </h2>
 
-- 🔭 I’m currently working on [YGG](https://www.yieldguild.io) (One of the largest Web3 Crypto DAO's)
+- 🔭 I’m currently working on [YGG](https://www.yieldguild.io) (The first & largest Web3 Crypto Gaming DAO in the world 🗺️)
 
-- 🌱 I’m currently learning **AI in Web3**
+- 🌱 I’m currently learning **AgenticDevOps**
 
 - 💬 Ask me about **Full Stack Development, applied AI, Cloud/GCP, startups & technical entrepreneurship.**
 
-- 📫 How to reach me **ve@vesharma.dev**
+- 📫 How to reach me **linkedIn message me or open a PR** 😜
 
 - ⚡ Fun fact:  Me => 🇨🇦 🇵🇭 🇮🇳 🇨🇳 
 
