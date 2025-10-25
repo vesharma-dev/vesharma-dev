@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  I'm Ve (Varun) Sharma </h1>
-<h2>Co-founder & Prev. CTO of Adauris (acq by Landbase), now Head of Engineering at YGG <img src="https://media.giphy.com/media/J4Ir1dZyftXvleRBK8/giphy.gif?cid=ecf05e47y3l4y36z3woyfhsuizxjbya8akyi4e6fm03qnats&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"/> </h2>
+<h2>Incoming Sr. S. Eng @microsoft | Co-founder & ex. CTO of Adauris (acq by Landbase), ex. Head of Engineering at YGG <img src="https://media.giphy.com/media/J4Ir1dZyftXvleRBK8/giphy.gif?cid=ecf05e47y3l4y36z3woyfhsuizxjbya8akyi4e6fm03qnats&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"/> </h2>
 
 - 🔭 I’m currently working on [YGG](https://www.yieldguild.io) (The first & largest Web3 Crypto Gaming DAO in the world 🗺️)
 
